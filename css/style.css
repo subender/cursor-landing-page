@@ -35,7 +35,44 @@ body {
     padding: 5.6px 1.5rem;
 }
 
+.hero{
+    padding-top: 15.12rem;
+    padding-bottom: 6.7rem;
+}
 
+.hero-content{
+    margin-bottom: 5.6rem;
+}
+
+.hero-title{
+    font-size: 2.5rem;
+    font-weight: 200;
+    line-height: 1.2;
+    max-width: 52rem;
+}
+
+.hero-cta a{
+    font-size: 1.6rem;
+    padding: var(--btn-pd-md);
+    border-radius: var(--border-radius-mx); 
+}
+
+
+.hero-img-container{
+    width: 100%;
+    height: min(780px, 70vh);
+    min-height: 68rem;
+    background-image: url("../assets/HeroBg.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: var(--border-radius-xs);
+}
+
+.hero-img-container img{
+    width: 102.4rem;
+    height: 56rem
+}
 
 
     

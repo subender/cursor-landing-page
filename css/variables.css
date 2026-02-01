@@ -40,6 +40,13 @@
     --text-primary: #EDECEC;
 
 
+    --btn-pd-sm:.36rem 1.35rem .288rem;
+    --btn-pd-md:1.48rem 2.16rem 1.28rem;
 
+    --border-radius-xs: .5rem;
+    --border-radius-sm: 1.44rem;
+    --border-radius-md: 2rem;
+    --border-radius-mx: 100rem;
+ 
 
 }
