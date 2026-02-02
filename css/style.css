@@ -295,3 +295,49 @@ body {
     rgba(0, 0, 0, 0) 100%
   );
 }
+
+
+.changelog-container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1.1rem;
+}
+
+
+.changelog-card{
+    
+    
+    padding:1.5rem 1.7rem 2rem;
+    border: 1px solid oklab(33.389% 0.00134 0.00038 / 0.359);
+    background-color: #1b1913;
+    border-radius: var(--border-radius-xs);
+}
+
+.card-head{
+        color: oklab(0.943853 0.00107113 0.000336707 / 0.6);
+        font-size: 1.4rem;
+}
+
+.card-head .version{
+    display: inline-block;
+    
+    font-weight: 200;
+    padding: .3rem 1.4rem;
+
+    background-color: #1b1913;
+    color: oklab(0.943853 0.00107113 0.000336707 / 0.6)
+}
+    
+.card-head .date{
+    font-size: 1.6rem;
+    font-weight: 200;
+    
+}
+
+.changelog-card-body p{
+    font-size: 1.6rem;
+    color:rgb(237, 236, 236);
+    font-weight: 200;
+    max-width: 29rem;
+    
+}

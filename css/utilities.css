@@ -7,6 +7,14 @@
     margin-top: 10rem;
 }
 
+.mb-lg{
+    margin-bottom: 10rem;
+}
+
+.mb-sm{
+    margin-bottom: 1rem;
+}
+
 .font-lg{
     font-size: 1.6rem;
 }
@@ -101,3 +109,9 @@
         
     }
 }   
+
+
+.border-hard {
+      border: 1px solid #6e6e6e;
+    border-radius: 100rem;
+}
