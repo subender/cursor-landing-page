@@ -38,6 +38,7 @@
 
     --bg-color:#14120b;
     --text-primary: #EDECEC;
+    --text-secondary:#f54e00;
 
 
     --btn-pd-sm:.36rem 1.35rem .288rem;
@@ -48,5 +49,9 @@
     --border-radius-md: 2rem;
     --border-radius-mx: 100rem;
  
+    --font-card1:2.2rem;
+    --font-card2:1.4rem;
 
+    --text-card1:#EDECEC;
+    --text-card2:#8e8e8e;
 }
