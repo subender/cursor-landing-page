@@ -374,3 +374,21 @@ body {
     height: 100%;
     object-fit: cover;
 }
+
+
+.final-cta-title{
+    font-size: 7.2rem;
+    font-weight: 200;
+    line-height: 1.2;
+}
+
+.final-cta{
+    padding: 13.4rem 0;
+}
+
+.final-cta-content a{
+    font-size: 1.6rem;
+    padding: 1rem 2.2rem;
+    border-radius: 100rem;
+    border: 1px solid oklab(33.389% 0.00134 0.00038 / 0.359);
+}
