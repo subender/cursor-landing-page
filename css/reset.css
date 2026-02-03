@@ -37,3 +37,9 @@ a{
 ul, ol{
     list-style: none;
 }
+
+button{
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
