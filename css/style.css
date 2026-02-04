@@ -343,7 +343,9 @@ body {
 }
 
 
-
+.team-cta{
+    padding: 3rem 0 14rem 0rem;
+}
 
 .team-cta-content-head h2{
     font-size: 3.6rem;
@@ -471,4 +473,57 @@ body {
     font-weight: 200;
     color: rgb(237, 236, 236);
 }
+
+
+.recent-highlights{
+    background-color: #1B1913;
+    padding: 9rem 0;
+}
     
+
+
+
+.recent-highlights-container{
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+
+    h2{
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+}
+    
+
+.recent-highlights-card{
+   font-weight: 200;
+   padding: 1.35rem 1.5rem 1.5rem 1.5rem;
+   border: 1px solid color-mix(in oklab, #edecec 2.5%, transparent);
+   width: 65rem;
+   border-radius: var(--border-radius-xs);
+   background-color: rgb(32, 30, 24);
+
+   .card p {
+    font-size: 1.6rem;
+    font-weight: 200;
+   }
+   
+   .card p:first-child{
+    color: rgb(237, 236, 236);
+   } 
+
+   .card p:nth-child(2){
+    color: oklab(0.943853 0.00107113 0.000336707 / 0.6);
+   } 
+
+   span, time{
+    color: oklab(0.943853 0.00107113 0.000336707 / 0.6);
+   } 
+
+}
+
+
+
+

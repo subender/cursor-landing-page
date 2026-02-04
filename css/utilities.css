@@ -32,6 +32,7 @@
 }
 
 
+
 .gap-sm{
     gap: .5rem;
 }
@@ -89,6 +90,16 @@
     background-color: #fff;
     color: #14120b;
     border-radius: var(--border-radius-md);
+}
+
+.btn-link {
+        
+        font-size: 1.6rem;
+        color: var(--text-secondary);
+        display:inline-block;
+        margin-top: 1.5rem;
+        
+    
 }
 
 .order-reverse{
