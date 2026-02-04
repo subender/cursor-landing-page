@@ -493,6 +493,9 @@ body {
         position: absolute;
         top: 0;
         left: 0;
+        color:rgb(237, 236, 236);
+        font-size: 1.6rem;
+        font-weight: 200;
     }
 }
     
@@ -508,6 +511,7 @@ body {
    .card p {
     font-size: 1.6rem;
     font-weight: 200;
+    line-height: 1.5;
    }
    
    .card p:first-child{
