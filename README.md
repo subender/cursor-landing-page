@@ -11,7 +11,7 @@ You can view the live deployment of this project here:
 ## 🛠 Sections Recreated
 I have meticulously recreated the following sections to match the original design:
 * **Navigation Bar:** A sleek, blurred-background sticky header with responsive links and CTA buttons.
-* **Hero Section:** Replicated the bold typography, the central "AI-powered" messaging, and the iconic "Command + K" visual prompt.
+* **Hero Section:** Replicated the bold typography, the central "AI-powered" messaging.
 * **Feature Showcase:** A grid-based layout displaying the core features of the editor with custom-styled cards.
 * **Footer:** A clean, multi-column footer layout containing navigation links and social icons.
 
@@ -35,7 +35,7 @@ Below are the screenshots of the final output:
 
 ### Desktop View
 ![Desktop View](./assets/DemoScreenShot.png)
-*Main Hero Section and Navigation.*
+*Full website in Desktop view*
 
 
 ---
@@ -43,11 +43,11 @@ Below are the screenshots of the final output:
 ## 📂 Installation & Usage
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/your-username/cursor-clone.git](https://github.com/your-username/cursor-clone.git)
+    git clone [https://github.com/subender/cursor-landing-page.git]
     ```
 2.  **Navigate to the folder:**
     ```bash
-    cd cursor-clone
+    cd cursor-landing-page
     ```
 3.  **Open the project:**
     Simply open the `index.html` file in any modern web browser.
